@@ -1,0 +1,14 @@
+Required Dependencies:
+opencv-python
+matplotlib 
+labelme
+albumentations
+tensorflow
+tensorflow-metal (For Mac users)
+keras
+time
+os
+uuid
+numpy
+shutil
+json
