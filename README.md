@@ -12,6 +12,12 @@ Face detection is a crucial task in various applications such as facial recognit
 - **Modular Design**: The codebase is organized into modular components, facilitating easy customization and integration into existing projects or systems.
 - **Scalability**: The model architecture is designed to be scalable, allowing for efficient deployment across different platforms and environments.
 
+## Repository Structure
+
+- '**/models**': Contains pre-trained model weights and configurations.
+- **/src**': Source code for training, evaluations, and inference.
+- '**/docs**': Documentations and requirements.
+
 ## Getting Started
 
 To get started with the face detection model, follow these steps:
