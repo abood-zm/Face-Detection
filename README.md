@@ -4,7 +4,7 @@ Welcome to the Face Detection Model repository! This project encompasses the dev
 
 ## Overview
 
-Face detection is a crucial task in various applications such as facial recognition systems, surveillance, and human-computer interaction. This repository hosts the codebase and resources related to my face detection model, which aims to accurately identify and localize human faces within images or video streams.
+Face detection is a crucial task in various applications such as facial recognition systems, surveillance, and human-computer interaction. This repository hosts the codebase and resources related to my face detection model, which aims to accurately identify and localize human faces within images or video streams. The model integrates both regression and classification models. The classification model is used to classify whether a face is detected or not, and regression model is used to forecast the coords of the top right corner to bottom left corner. Loss function and optimization models are utilized as well.
 
 ## Features
 - **High Accuracy**: This model leverages advanced deep learning architectures to achieve high accuracy in detection faces under various conditions including different lighting, orientations and occlusions.
