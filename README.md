@@ -15,7 +15,7 @@ Face detection is a crucial task in various applications such as facial recognit
 ## Repository Structure
 
 - '**/models**': Contains pre-trained model weights and configurations.
-- **/src**': Source code for training, evaluations, and inference.
+- '**/src**': Source code for training, evaluations, and inference.
 - '**/docs**': Documentations and requirements.
 
 ## Getting Started
